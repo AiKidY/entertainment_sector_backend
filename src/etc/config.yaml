@@ -1,0 +1,9 @@
+rabbitmq:
+  host: '127.0.0.1'
+  port: 5672
+  virtual_host: 'eyw'
+  username: 'admin'
+  password: '123'
+  timeout: 60
+  heartbeat: 30
+
