@@ -1,2 +1,2 @@
 # entertainment_service_backend
-娱乐后端服务
+娱乐板块后端
